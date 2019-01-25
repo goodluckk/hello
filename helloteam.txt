@@ -1,2 +1,6 @@
 Hello Tiff
+<<<<<<< HEAD
 Hello Juthaporn Pummanee
+=======
+Hello Gun
+>>>>>>> be3f5d399445deeb1f8466c5da3a7a9da5cbdba9
